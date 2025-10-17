@@ -1,1 +1,1 @@
-![OneKiwi](onekiwi-logo.png "OneKiwi")
+Top level readme
